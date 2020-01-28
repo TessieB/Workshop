@@ -4,7 +4,7 @@ Following is a table of contents of my work produced for Wicked Problems / Evolv
 
 ## Responses to Readings
 
-1. 
+1. [Blumenstock Article](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf)
 
 2. [Blumenstock response extra]()
 
