@@ -4,7 +4,7 @@ Following is a table of contents of my work produced for Wicked Problems / Evolv
 
 ## Responses to Readings
 
-1. [Blumenstock response](https://github.com/TessieB/Tessie/blob/master/Blumenstock.md)(Jan 28)
+1. [Blumenstock response](https://github.com/TessieB/Workshop/blob/master/Blumenstock.md)(Jan 28)
 
 
 ## Projects
