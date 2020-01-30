@@ -6,7 +6,6 @@ Following is a table of contents of my work produced for Wicked Problems / Evolv
 
 1. [Blumenstock response](https://github.com/TessieB/Tessie/blob/master/Blumenstock.md)(Jan 28)
 
-2. [Blumenstock Response](tessieb.github.io/Workshop/Blumenstock/)
 
 ## Projects
 
