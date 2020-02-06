@@ -1,6 +1,8 @@
 Tessie Baumann
 February 4, 2020
 
+##Jahan and Rosling Response
+
 What is human development? Why does it matter? Everyone always jumps to the conclusion that human development is necessary, but rarely do they answer the question why or define the purpose of human development. Those words are thrown around, used in whatever way most deem desirable to their particular situation, but if there is to be real change in this world, then a concrete definition of what that change is aiming to accomplish needs to be identified.
 
 According to Jahan, human development is meant to enlarge the choices that people have in every part of life. In order to do this, there are two things that need to be accomplished: the capability of humans has to be enhanced and the opportunities they have to use those capabilities need to be improved. Jahan points out that one way to look at the situation is to imagine it as an equation. If the capabilities are enhanced on one side due to more resources, better nutrition, and an increased access to healthcare and this is balanced with opportunities such as employment, credit, entrepreneurship, and more on the other side, than the scene is set for human development. Otherwise, if each side of the equation is not equal, the result is human frustration which leads to the loss of human potential. Additionally, another important aspect to consider is that human development is of, for, and by the people. Ultimately, human beings themselves are the ones who want to develop human resources and capital, ensure that they receive the benefits of human development, and are the ones partaking in the operation.
