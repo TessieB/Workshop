@@ -8,7 +8,7 @@ Following is a table of contents of my work produced for Wicked Problems / Evolv
 
 2. [Blumenstock Response](TessieB.github.io/Workshop/Blumenstock/)
 
-3. [Jahan and Rosling Response](tessib.github.io/Workshop/Jahan_and_Rosling_Response/)(Feb 4)
+3. [Jahan and Rosling Response](github.io/tessieb/Workshop/Jahan_and_Rosling_Response/)(Feb 4)
 
 
 ## Projects
