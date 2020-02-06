@@ -1,7 +1,7 @@
 Tessie Baumann
 February 4, 2020
 
-##Jahan and Rosling Response
+## Jahan and Rosling Response
 
 What is human development? Why does it matter? Everyone always jumps to the conclusion that human development is necessary, but rarely do they answer the question why or define the purpose of human development. Those words are thrown around, used in whatever way most deem desirable to their particular situation, but if there is to be real change in this world, then a concrete definition of what that change is aiming to accomplish needs to be identified.
 
