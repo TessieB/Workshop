@@ -1,4 +1,4 @@
-Tessie Baumann
+Tessie Baumann <br/>
 Professor Frazier
 Human Development
 23 February 2020
