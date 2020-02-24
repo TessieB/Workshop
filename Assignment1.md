@@ -1,6 +1,6 @@
 Tessie Baumann <br/>
-Professor Frazier
-Human Development
+Professor Frazier <br/>
+Human Development <br/>
 23 February 2020
 
 # Annotated Bibliography
