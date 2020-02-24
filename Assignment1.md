@@ -16,7 +16,7 @@ In his article about human development, Amartya Sen discusses the idea that huma
 
 In order to discover the number and spread of higher learning institutions in Nigeria, Akpan shows a gridded map with spatial data that illustrates where these colleges and universities can be found. Akpan then analyzes the data and explains the significance of the placement of the colleges and universities, including the facts mentioned above about the dispersion of higher learning institutions between the different states and how they tend to be concentrated in cities rather than rural areas. These patterns are concerning because they leave a lot of the population with little or no access to higher education. With urban centers featuring access to electricity, water, and other benefits, there is little incentive for universities to be built in the poorer segments of the country. Despite all of these issues, however, Akpan found that where higher learning institutions are built, huge impacts follow, including infrastructural growths along with social and cultural benefits.  
  
- <br/>
+
 “Nigeria 1km Poverty.” World Pop, Jan. 2013, www.worldpop.org/geodata/summary?id=1267. 
 Accessed 21 Feb. 2020.
 
@@ -26,7 +26,7 @@ When comparing the map to Amartya Sen’s view of human development, it is clear
 	
 In this map, World Pop uses estimates to create a model showing poverty levels throughout Nigeria that has a ninety-five percent credibility level. The approach used to map this data consists of Bayesian model-based geostatistics along with high resolution gridded spatial covariates, both of which were applied to GPS-located household survey data that recorded information on poverty and was retrieved from DHS and/or LSMS programs. The grid squares that make up the map are one thousand by one thousand meters. Through this data, the developers of the map worked to create an image of what poverty rates look like to answer the question of where poverty is concentrated in Nigeria, and they found a pattern that is apparent in the way poverty decreases the more south one goes. Ultimately, this information is truly vital because it provides insights to some possible reasons as to why education in certain areas of Nigeria is failing.
 
-<br/>
+
 Olamiju, Isaac, and Julius Olujimi. “Regional Analysis of Locations of Public Educational 
 Facilities in Nigeria: The Akure Region Experience.” Journal of Geography and Regional Planning, vol. 4, July 2011, pp. 428-442. Research Gate, www.researchgate.net/publication/233855500_'Regional_Analysis_of_Locations_of_Public_Educational_Facilities_in_Nigeria_The_Akure_Region_Experience'. Accessed 22 Feb. 2020.
 
@@ -49,7 +49,7 @@ This article is addressing the issue of the rapid urbanization taking place in V
 	
 Ultimately, the authors are studying the urbanization trends in Vietnam, specifically in the city of Ho Chi Minh due to the prevalence of data available for that location. They want to prove why using the publicly available satellite data opens up so many doors when it comes to the ability to continuously monitor certain situations and how it allows people gain access to information that can help with issues such as urban planning, climate change, and pollution prevention.
 
-<br/>
+
 Saksena, Fox, Spencer, Castrence, DiGregorio, Epprecht, Sultana, Finucane, Nguyen, Vien. 
 “Classifying and Mapping the Urban Transition in Vietnam.” Applied Geography, vol. 
 50, June 2014, pp. 80-89. Science Direct, www.sciencedirect.com/science/article/pii/S0143622814000320. Accessed 23 Feb. 2020.
