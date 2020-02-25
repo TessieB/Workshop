@@ -8,7 +8,7 @@ Human Development <br/>
 ### Problem Statement 1: What causes, including transportation, poverty levels, and school/teacher availability, are leading to the lack of education in Nigeria and how is this deficiency in education affecting Nigeria’s economy? 
 
 1A. Akpan, P. A. “The Spatial Aspects of Higher Education in Nigeria.” Higher Education, vol. 16, 
-no. 5, 1987, pp. 545–555. JSTOR, [www.jstor.org/stable/3446832]. Accessed 21 Feb. 2020.
+no. 5, 1987, pp. 545–555. JSTOR, [www.jstor.org/stable/3446832.](www.jstor.org/stable/3446832) Accessed 21 Feb. 2020.
 
 In this article, Akpan presents the state of higher education in Nigeria from the way it appeared in 1987 and explains how there has been an issue with students gaining access to higher education over the years. According to this study, between the years 1979 and 1985, around 164,951 students applied to different universities in Nigeria every year. Unfortunately, only about thirteen percent of them were actually accepted and received the chance to go. In fact, until 1960, only three universities resided in Nigeria. By 1985, however, every state in Nigeria had at least one college, one university, and one polytechnic, and while this was a great movement, many of these institutions were built in cities, depriving rural areas of such opportunities for higher education. Additionally, as a result of the fact that a majority of these universities were and still are funded by the federal government, they are dependent on the success of the economy. If the economy starts to tank, then there is no money available to pay for these places of higher learning.
 
