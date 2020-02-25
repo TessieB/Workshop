@@ -1,4 +1,4 @@
-Tessie Baumann <\b>
+Tessie Baumann <br/>
 February 25, 2020
 
 # Anderson and Kitchin Response
