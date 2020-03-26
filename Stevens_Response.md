@@ -1,4 +1,3 @@
-# Stevens Response
 ### In the reading today (Stevens et al.) the authors use a technique to produce a high resolution description of the distribution of human populations across the globe. What is the name of the technique and describe in general and basic terms how it works? 
 
 The name of this technique is the Random Forest estimation technique and it essentially uses census data and other covariates to distribute the population data based on different weights for different areas. The algorithm goes through the covariates and determines which ones are most relevant to where the population is aggregated and to what degree in what sections of the country. From there those covariates are used to distribute where people are located and in what numbers.
