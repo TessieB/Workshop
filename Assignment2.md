@@ -1,6 +1,6 @@
 <p align="center">
 	
-# Analyzing the Causes of the Poor Education System in Nigeria and What Geospatial Methods can be Used to Improve These Issues
+# Analyzing the Causes of the Poor Education System in Nigeria and What Geospatial Methods can be Used to Improve These Issues <p align="center">
 By Tessie Baumann <br />
 April 5, 2020
 
