@@ -20,6 +20,8 @@ Following is a table of contents of my work produced for Wicked Problems / Evolv
 
 8. [Assignment 2](https://tessieb.github.io/Workshop/Assignment2)(Apr 5)
 
+9. [Assignment 3](https://tessieb.github.io/Workshop/Assignment3)(Apr 19)
+
 
 ## Projects
 
