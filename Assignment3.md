@@ -17,6 +17,7 @@ The first method to focus on is the Bayesian model. This model takes clustered d
 
 In order to predict the under-five proportion of the population without survey data, it was necessary to look at the spatial covariance structure in the survey data and the relationships between the covariates. Once a list of covariates was formed, the number of covariates was reduced through the use of a non-spatial generalized linear regression model. Afterwards, the selected covariates were then used in the Bayesian approach. This reduction of covariates was done to prevent any chance of over-fitting. Table 1 shows how different covariates were selected for a variety of model specifications.
 
+
  
 The chosen covariates and data from the household surveys were then fed into a Bayesian hierarchical spatio-temporal model, which was implemented through a stochastic partial differential equations (SPDE) approach with INLA for inference. This produced maps of the estimated proportion of Nigeria’s population that are children under the age of 5, as shown below in Figure 3. [1]
 
@@ -26,7 +27,7 @@ The other method this research is focusing on is the random forest method, which
 
 The first step with random forest is to gather a list of covariates. Once these are on hand, the list needs to be narrowed down in order to avoid over-fitting. This can be done by running the covariates through an algorithm that determines which ones are most relevant to where the population is aggregated and to what degree dependent on the location involved. The random forest method then takes the census data and the selected covariates and combines them with decision trees that are considered weak in order to create a stronger learner. These trees are then used to provide a weighting layer that allows for a dasymetric redistribution of population counts from census-based administrative units to grid cells. The map below shows data taken from a Nigerian census and mapped using a random-forest based dasymetric redistribution to provide a current record of Nigeria’s population. [4, 5]
  
-
+![Nigeria 2020 Population Map](https://www.worldpop.org/tabs/gdata/img/6409/nga_ppp_wpgp_2020_Image.png) 
 
 
 ### Discussion
