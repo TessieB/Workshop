@@ -43,16 +43,25 @@ While the methods listed above are very helpful in providing information for Nig
 
 
 
-References
- [1]	Alegana, Atkinson, Pezzulo, Sorichetta, Weiss, Bird, Erbach-Schoenberg, Tatem. “Fine Resolution Mapping of Population Age Structures for Health and Development Applications.” Journal of the Royal Society Interface, vol. 21, no. 105, 2015, [royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073.](http://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073) 
+## References
+[1]	Alegana, Atkinson, Pezzulo, Sorichetta, Weiss, Bird, Erbach-Schoenberg, Tatem. “Fine Resolution Mapping of Population Age Structures for Health and Development Applications.” Journal of the Royal Society Interface, vol. 21, no. 105, 2015, [royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073.](http://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2015.0073) 
+
 [2]	“Education.” Unicef, [www.unicef.org/nigeria/education.](http://www.unicef.org/nigeria/education) 
+
 [3] 	“Helping Governments and Stakeholders Make the SDGs a Reality.” Sustainable Development Goals, United Nations, [sustainabledevelopment.un.org/#.](http://sustainabledevelopment.un.org/#) 
+
 [4]	Nieves, Stevens, Gaughan, Linard, Sorichetta, Hornby, Patel, Tatem. “Examining the Correlates and Drivers of Human Population Distributions Across Low- and Middle-Income Countries.” Journal of the Royal Society Interface, vol. 14, no. 137, Dec. 2017, [www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746564/pdf/rsif20170401.pdf) 
+
 [5]	“Nigeria Population 2020.” World Pop, 2018, [www.worldpop.org/geodata/summary?id=6409.](http://www.worldpop.org/geodata/summary?id=6409) 
+
 [6]	Ogunyemi, Muibi, Eguarje, Fabiyi, Halilu. “A Geospatial Approach to Evaluation of Accessibility to Secondary Educational Institution in Ogun State, Nigeria.” IOP Conference Series: Earth and Environmental Science, vol. 20, 2014, IOP Science, [iopscience.iop.org/article/10.1088/1755-1315/20/1/012045.](http://iopscience.iop.org/article/10.1088/1755-1315/20/1/012045) 
+
 [7]	Olamiju, Isaac, and Julius Olujimi. “Regional Analysis of Locations of Public Educational Facilities in Nigeria: The Akure Region Experience.” Journal of Geography and Regional Planning, vol. 4, July 2011, pp. 428-442. Research Gate, [www.researchgate.net/publication/233855500_'Regional_Analysis_of_Locations_of_Public_Educational_Facilities_in_Nigeria_The_Akure_Region_Experience'.](http://www.researchgate.net/publication/233855500_'Regional_Analysis_of_Locations_of_Public_Educational_Facilities_in_Nigeria_The_Akure_Region_Experience') 
+
 [8]	Olubadewo, Abdulkarim, Ahmed. “The Use of GIS as Educational Support System (EDSS) for Primary Schools in Fagge Local Government Area of Kano State, Nigeria.” Academic Research International, vol. 4, no. 6, Nov. 2013, Research Gate, [www.researchgate.net/publication/277718678_Academic_Research_International_THE_USE_OF_GIS_AS_EDUCATIONAL_DECISION_SUPPORT_SYSTEM_EDSS_FOR_PRIMARY_SCHOOLS_IN_FAGGE_LOCALGOVERNMENT_AREA_OF_KANO_STATE_NIGERIA.](http://www.researchgate.net/publication/277718678_Academic_Research_International_THE_USE_OF_GIS_AS_EDUCATIONAL_DECISION_SUPPORT_SYSTEM_EDSS_FOR_PRIMARY_SCHOOLS_IN_FAGGE_LOCALGOVERNMENT_AREA_OF_KANO_STATE_NIGERIA) 
+
 [9] 	Opanuga, Okague, Oguntunde, Bishop, Ogundile. “Learning Analytics: Issues on the Pupil-Teacher Ratio in Public Primary Schools in Nigeria.” International Journal of Emerging Technologies in Learning, vol. 14, n. 10, May 2019, pp. 180-199, [online-journals.org/index.php/i-jet/article/view/10129/5695.](http://online-journals.org/index.php/i-jet/article/view/10129/5695)
+
 [10]	Umar, Ismail, Abdul-Hakim. “Regional Inequality of Educational Attainment in Nigeria.” British Journal of Economics, Management & Trade, vol. 4, no. 3, 2014, pp. 420-430, [journaljemt.com/index.php/JEMT/article/view/11477/20825.](http://journaljemt.com/index.php/JEMT/article/view/11477/20825) 
 
 
