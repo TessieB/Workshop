@@ -17,11 +17,11 @@ The first method to focus on is the Bayesian model. This model takes clustered d
 
 In order to predict the under-five proportion of the population without survey data, it was necessary to look at the spatial covariance structure in the survey data and the relationships between the covariates. Once a list of covariates was formed, the number of covariates was reduced through the use of a non-spatial generalized linear regression model. Afterwards, the selected covariates were then used in the Bayesian approach. This reduction of covariates was done to prevent any chance of over-fitting. Table 1 shows how different covariates were selected for a variety of model specifications.
 
-
+![Image 4-19-20 at 5 06 PM](https://user-images.githubusercontent.com/60394844/79710167-2a049180-8292-11ea-8065-98ea4283cf80.jpg)
  
 The chosen covariates and data from the household surveys were then fed into a Bayesian hierarchical spatio-temporal model, which was implemented through a stochastic partial differential equations (SPDE) approach with INLA for inference. This produced maps of the estimated proportion of Nigeria’s population that are children under the age of 5, as shown below in Figure 3. [1]
 
- 
+ ![Image 4-19-20 at 5 03 PM](https://user-images.githubusercontent.com/60394844/79710180-3688ea00-8292-11ea-9d60-e1399bcce32e.jpg)
 
 The other method this research is focusing on is the random forest method, which has been used successfully in Nigeria to create population maps. Random forest is a technique which takes census data and other covariates to distribute the population based on different weights for each area. Those weights are compared with the census data to determine how many people live in what areas throughout the country, rather than only having an overall number taken from one of the census regions. This method was used in Nigeria to create up to date population maps without needing to constantly conduct censuses and spend a bunch of money on obtaining current data on the population. 
 
