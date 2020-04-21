@@ -22,7 +22,7 @@ Following is a table of contents of my work produced for Wicked Problems / Evolv
 
 9. [Assignment 3](https://tessieb.github.io/Workshop/Assignment3)(Apr 19)
 
-10. [In-class Essay 2](https://tessieb.github.io/Workshop/Essay2)
+10. [In-class Essay 2](https://tessieb.github.io/Workshop/Essay2)(Apr 21)
 
 
 ## Projects
